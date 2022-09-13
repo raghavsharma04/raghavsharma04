@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raghavsharma04
+- 👋 Hi, I’m @raghavsharma
 - 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning Node.js
 <!-- - 💞️ I’m looking to collaborate on  -->
